@@ -1,5 +1,7 @@
 # D-FLIPDLOP-NEGEDGE
+Developed by HARIHARAN.V
 
+RegisterNumber:24002937
 **AIM:**
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
@@ -56,7 +58,7 @@ always @(negedge clk or posedge rst)begin
 	endmodule
 ```
 
-Developed by:A.AKILA RegisterNumber:24900889
+ 
 
 
 **RTL LOGIC FOR FLIPFLOPS**
